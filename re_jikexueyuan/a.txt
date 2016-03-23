@@ -1,0 +1,47 @@
+<li id="2614" test="0" deg="0" >
+	<div class="lessonimg-box">
+			
+		
+		<a href="http://www.jikexueyuan.com/course/2614.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=2614&posColumn=2614.1">
+			<img src="http://a1.jikexueyuan.com/home/201603/18/43bb/56eb5e43e9b52.jpg" class="lessonimg" title="绘制专业的产品原型应用示例：猿题库 App 产品原型设计" alt="绘制专业的产品原型应用示例：猿题库 App 产品原型设计">
+			
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=2614&posColumn=2614.1"></i>
+			</div>
+			
+
+		</a>
+		
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="http://www.jikexueyuan.com/course/2614.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=2614&posColumn=2614.1">绘制专业的产品原型应用示例：猿题库 App 产品原型设计</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程通过猿题库产品原型设计，来讲解如何绘制专业的产品原型设计，如何绘制好专业的产品原型，如何写好产品原型的交互说明，介绍一些绘制原型的注意事项。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							121分钟</em>
+					</dd>
+					<dd class="zhongji">
+						
+					<i class="xinhao-icon3"></i><em>高级</em>
+					</dd>
+					
+				</dl>
+				<em class="learn-number">2351人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+					
+					<a href="http://www.jikexueyuan.com/course/axure/">
+						<img width="16" src="http://wirrorcdn.jikexueyuan.com/category/pm.png" alt="axure" title="Axure" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=2614&posColumn=2614.1&aCCate=axure" >
+					</a>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
